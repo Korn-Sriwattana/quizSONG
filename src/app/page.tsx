@@ -26,9 +26,9 @@ export default function Home() {
       >
         {/* Post Owner Example*/}
         <PostOwnner
-          PostTitle="Nutcha Khampoung 660610751"
+          PostTitle="Korn Sriwattana 660610738"
           content="Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #26120"
-          profilePic="/profileImages/nutcha.jpg"
+          profilePic="/profileImages/87731386_616989628848933_2892013583061745664_n.jpg"
           likes={0}
         ></PostOwnner>
 
