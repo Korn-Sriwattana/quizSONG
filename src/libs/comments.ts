@@ -8,16 +8,16 @@ export const comments: any = [
     likeNum: 555,
     replies: [
       {
-        username: "Cat Meme",
-        userImagePath: "/profileImages/popcat.png",
-        replyText: "ลิซ่าาาาาาา",
-        likeNum: 20,
-      },
-      {
         username: "หมาน้อย",
         userImagePath: "/profileImages/puppy.jpg",
         replyText: "จริงค้าบบบ",
         likeNum: 0,
+      },
+      {
+        username: "Cat Meme",
+        userImagePath: "/profileImages/popcat.png",
+        replyText: "ลิซ่าาาาาาา",
+        likeNum: 20,
       },
       ,
     ],
